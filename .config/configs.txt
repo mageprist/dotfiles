@@ -1,0 +1,12 @@
+neovim
+ultisnips
+
+sc-im
+
+i3
+
+i3-bar
+
+terminator
+
+
